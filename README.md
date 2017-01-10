@@ -1,1 +1,1 @@
-# get_fortigate_config_via_api
+Download the config from a Fortigate via the API with python
